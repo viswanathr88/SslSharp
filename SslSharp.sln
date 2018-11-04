@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslSharp", "SslSharp\SslSharp.csproj", "{2BF4523B-3865-4745-A1EA-4CE561E458F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SslSharp.Cryptography", "SslSharp.Cryptography\SslSharp.Cryptography.csproj", "{650140B9-C538-4CBF-998E-C237C22B389C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF4523B-3865-4745-A1EA-4CE561E458F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF4523B-3865-4745-A1EA-4CE561E458F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF4523B-3865-4745-A1EA-4CE561E458F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF4523B-3865-4745-A1EA-4CE561E458F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650140B9-C538-4CBF-998E-C237C22B389C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650140B9-C538-4CBF-998E-C237C22B389C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650140B9-C538-4CBF-998E-C237C22B389C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650140B9-C538-4CBF-998E-C237C22B389C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77764AF-E883-49E8-95F0-A7DE63D48383}
+	EndGlobalSection
+EndGlobal
